@@ -1,0 +1,16 @@
+{
+  "name": "luna-owo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "wio.db": "^4.0.20"
+  }
+}
